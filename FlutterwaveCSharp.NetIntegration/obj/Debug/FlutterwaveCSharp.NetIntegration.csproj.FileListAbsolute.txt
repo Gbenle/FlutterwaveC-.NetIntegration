@@ -1,0 +1,10 @@
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\obj\Debug\FlutterwaveCSharp.NetIntegration.csprojAssemblyReference.cache
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\obj\Debug\FlutterwaveCSharp.NetIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\bin\Debug\FlutterwaveCSharp.NetIntegration.exe.config
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\bin\Debug\FlutterwaveCSharp.NetIntegration.exe
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\bin\Debug\FlutterwaveCSharp.NetIntegration.pdb
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\obj\Debug\FlutterwaveCSharp.NetIntegration.csproj.CopyComplete
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\obj\Debug\FlutterwaveCSharp.NetIntegration.exe
+C:\Users\Oladapo\Documents\Visual Studio 2017\Projects\FlutterwaveCSharp.NetIntegration\FlutterwaveCSharp.NetIntegration\obj\Debug\FlutterwaveCSharp.NetIntegration.pdb
