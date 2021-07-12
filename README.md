@@ -1,4 +1,4 @@
-# FlutterwaveC-.NetIntegration
+# FlutterwaveC# Asp.Net Integration
 Fluuterwave is a payment gateway company. As a .Net developer there a number of difficulty we face integrating the gateway into our applications without installing their .Net SDK. This is just a work around developed to achieve what we wanted.
 
 # Add the following references
